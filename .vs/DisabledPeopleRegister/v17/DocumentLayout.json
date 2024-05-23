@@ -1,0 +1,490 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|c:\\fiap\\concenssionariadotnettcp2 (1)\\concenssionariadotnett\\estudos\\sprint2csharp\\registropessoaacessibilidade\\dtos\\activities\\createactivitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|solutionrelative:dtos\\activities\\createactivitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|c:\\fiap\\concenssionariadotnettcp2 (1)\\concenssionariadotnett\\estudos\\sprint2csharp\\registropessoaacessibilidade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|c:\\fiap\\concenssionariadotnettcp2 (1)\\concenssionariadotnett\\estudos\\sprint2csharp\\registropessoaacessibilidade\\controllers\\participacaousuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|solutionrelative:controllers\\participacaousuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|c:\\fiap\\concenssionariadotnettcp2 (1)\\concenssionariadotnett\\estudos\\sprint2csharp\\registropessoaacessibilidade\\controllers\\atividadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|solutionrelative:controllers\\atividadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|c:\\fiap\\concenssionariadotnettcp2 (1)\\concenssionariadotnett\\estudos\\sprint2csharp\\registropessoaacessibilidade\\models\\atividadesusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|solutionrelative:models\\atividadesusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|c:\\fiap\\concenssionariadotnettcp2 (1)\\concenssionariadotnett\\estudos\\sprint2csharp\\registropessoaacessibilidade\\migrations\\databasecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|solutionrelative:migrations\\databasecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|c:\\fiap\\concenssionariadotnettcp2 (1)\\concenssionariadotnett\\estudos\\sprint2csharp\\registropessoaacessibilidade\\migrations\\20240520224546_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|solutionrelative:migrations\\20240520224546_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|c:\\fiap\\concenssionariadotnettcp2 (1)\\concenssionariadotnett\\estudos\\sprint2csharp\\registropessoaacessibilidade\\migrations\\20240520224505_atividadesusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|solutionrelative:migrations\\20240520224505_atividadesusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|c:\\fiap\\concenssionariadotnettcp2 (1)\\concenssionariadotnett\\estudos\\sprint2csharp\\registropessoaacessibilidade\\migrations\\20240520224606_participacaousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|solutionrelative:migrations\\20240520224606_participacaousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|c:\\fiap\\concenssionariadotnettcp2 (1)\\concenssionariadotnett\\estudos\\sprint2csharp\\registropessoaacessibilidade\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|c:\\fiap\\concenssionariadotnettcp2 (1)\\concenssionariadotnett\\estudos\\sprint2csharp\\registropessoaacessibilidade\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|solutionrelative:dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|c:\\fiap\\concenssionariadotnettcp2 (1)\\concenssionariadotnett\\estudos\\sprint2csharp\\registropessoaacessibilidade\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|c:\\fiap\\concenssionariadotnettcp2 (1)\\concenssionariadotnett\\estudos\\sprint2csharp\\registropessoaacessibilidade\\interfaces\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|solutionrelative:interfaces\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|c:\\fiap\\concenssionariadotnettcp2 (1)\\concenssionariadotnett\\estudos\\sprint2csharp\\registropessoaacessibilidade\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|solutionrelative:views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|c:\\fiap\\concenssionariadotnettcp2 (1)\\concenssionariadotnett\\estudos\\sprint2csharp\\registropessoaacessibilidade\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|c:\\fiap\\concenssionariadotnettcp2 (1)\\concenssionariadotnett\\estudos\\sprint2csharp\\registropessoaacessibilidade\\views\\participacaousuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|solutionrelative:views\\participacaousuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|c:\\fiap\\concenssionariadotnettcp2 (1)\\concenssionariadotnett\\estudos\\sprint2csharp\\registropessoaacessibilidade\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|c:\\fiap\\concenssionariadotnettcp2 (1)\\concenssionariadotnett\\estudos\\sprint2csharp\\registropessoaacessibilidade\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|c:\\fiap\\concenssionariadotnettcp2 (1)\\concenssionariadotnett\\estudos\\sprint2csharp\\registropessoaacessibilidade\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|c:\\fiap\\concenssionariadotnettcp2 (1)\\concenssionariadotnett\\estudos\\sprint2csharp\\registropessoaacessibilidade\\views\\participacaousuarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|solutionrelative:views\\participacaousuarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|c:\\fiap\\concenssionariadotnettcp2 (1)\\concenssionariadotnett\\estudos\\sprint2csharp\\registropessoaacessibilidade\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|c:\\fiap\\concenssionariadotnettcp2 (1)\\concenssionariadotnett\\estudos\\sprint2csharp\\registropessoaacessibilidade\\interfaces\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|solutionrelative:interfaces\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|c:\\fiap\\concenssionariadotnettcp2 (1)\\concenssionariadotnett\\estudos\\sprint2csharp\\registropessoaacessibilidade\\dtos\\users\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|solutionrelative:dtos\\users\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|c:\\fiap\\concenssionariadotnettcp2 (1)\\concenssionariadotnett\\estudos\\sprint2csharp\\registropessoaacessibilidade\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|c:\\fiap\\concenssionariadotnettcp2 (1)\\concenssionariadotnett\\estudos\\sprint2csharp\\registropessoaacessibilidade\\models\\participacaousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|solutionrelative:models\\participacaousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|c:\\fiap\\concenssionariadotnettcp2 (1)\\concenssionariadotnett\\estudos\\sprint2csharp\\registropessoaacessibilidade\\dtos\\users\\loguserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|solutionrelative:dtos\\users\\loguserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|c:\\fiap\\concenssionariadotnettcp2 (1)\\concenssionariadotnett\\estudos\\sprint2csharp\\registropessoaacessibilidade\\dtos\\activities\\updateactivitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|solutionrelative:dtos\\activities\\updateactivitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|c:\\fiap\\concenssionariadotnettcp2 (1)\\concenssionariadotnett\\estudos\\sprint2csharp\\registropessoaacessibilidade\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCAEFA4E-DAAA-4C69-A4E5-2E85CF40BD88}|DisabledPeopleRegister.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 152,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 233,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Migrations\\DatabaseContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\DatabaseContextModelSnapshot.cs",
+              "ToolTip": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Migrations\\DatabaseContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\DatabaseContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T22:51:31.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AtividadesUsuario.cs",
+              "DocumentMoniker": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Models\\AtividadesUsuario.cs",
+              "RelativeDocumentMoniker": "Models\\AtividadesUsuario.cs",
+              "ToolTip": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Models\\AtividadesUsuario.cs",
+              "RelativeToolTip": "Models\\AtividadesUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:44:17.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AtividadesController.cs",
+              "DocumentMoniker": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Controllers\\AtividadesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AtividadesController.cs",
+              "ToolTip": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Controllers\\AtividadesController.cs",
+              "RelativeToolTip": "Controllers\\AtividadesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:44:43.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParticipacaoUsuariosController.cs",
+              "DocumentMoniker": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Controllers\\ParticipacaoUsuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ParticipacaoUsuariosController.cs",
+              "ToolTip": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Controllers\\ParticipacaoUsuariosController.cs",
+              "RelativeToolTip": "Controllers\\ParticipacaoUsuariosController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T13:54:06.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T00:17:57.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateActivityDto.cs",
+              "DocumentMoniker": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Dtos\\Activities\\CreateActivityDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Activities\\CreateActivityDto.cs",
+              "ToolTip": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Dtos\\Activities\\CreateActivityDto.cs",
+              "RelativeToolTip": "Dtos\\Activities\\CreateActivityDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:43:46.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240520224546_Usuario.cs",
+              "DocumentMoniker": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Migrations\\20240520224546_Usuario.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240520224546_Usuario.cs",
+              "ToolTip": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Migrations\\20240520224546_Usuario.cs",
+              "RelativeToolTip": "Migrations\\20240520224546_Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T22:45:46.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240520224505_AtividadesUsuario.cs",
+              "DocumentMoniker": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Migrations\\20240520224505_AtividadesUsuario.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240520224505_AtividadesUsuario.cs",
+              "ToolTip": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Migrations\\20240520224505_AtividadesUsuario.cs",
+              "RelativeToolTip": "Migrations\\20240520224505_AtividadesUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T22:45:06.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240520224606_ParticipacaoUsuario.cs",
+              "DocumentMoniker": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Migrations\\20240520224606_ParticipacaoUsuario.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240520224606_ParticipacaoUsuario.cs",
+              "ToolTip": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Migrations\\20240520224606_ParticipacaoUsuario.cs",
+              "RelativeToolTip": "Migrations\\20240520224606_ParticipacaoUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T22:46:06.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUsersService.cs",
+              "DocumentMoniker": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Interfaces\\IUsersService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUsersService.cs",
+              "ToolTip": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Interfaces\\IUsersService.cs",
+              "RelativeToolTip": "Interfaces\\IUsersService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T19:03:28.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T23:51:53.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T13:55:24.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\DbContext.cs",
+              "RelativeDocumentMoniker": "DbContext.cs",
+              "ToolTip": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\DbContext.cs",
+              "RelativeToolTip": "DbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T13:29:01.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T14:23:02.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T13:53:04.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Views\\ParticipacaoUsuarios\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\ParticipacaoUsuarios\\Create.cshtml",
+              "ToolTip": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Views\\ParticipacaoUsuarios\\Create.cshtml",
+              "RelativeToolTip": "Views\\ParticipacaoUsuarios\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T13:55:44.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T14:23:25.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T19:41:23.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T13:56:11.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Views\\ParticipacaoUsuarios\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\ParticipacaoUsuarios\\Edit.cshtml",
+              "ToolTip": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Views\\ParticipacaoUsuarios\\Edit.cshtml",
+              "RelativeToolTip": "Views\\ParticipacaoUsuarios\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T13:57:22.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUsersRepository.cs",
+              "DocumentMoniker": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Interfaces\\IUsersRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUsersRepository.cs",
+              "ToolTip": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Interfaces\\IUsersRepository.cs",
+              "RelativeToolTip": "Interfaces\\IUsersRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T13:53:10.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T13:56:13.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ParticipacaoUsuario.cs",
+              "DocumentMoniker": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Models\\ParticipacaoUsuario.cs",
+              "RelativeDocumentMoniker": "Models\\ParticipacaoUsuario.cs",
+              "ToolTip": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Models\\ParticipacaoUsuario.cs",
+              "RelativeToolTip": "Models\\ParticipacaoUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:44:36.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:44:28.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Dtos\\Users\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Users\\CreateUserDto.cs",
+              "ToolTip": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Dtos\\Users\\CreateUserDto.cs",
+              "RelativeToolTip": "Dtos\\Users\\CreateUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:44:04.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LogUserDto.cs",
+              "DocumentMoniker": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Dtos\\Users\\LogUserDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Users\\LogUserDto.cs",
+              "ToolTip": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Dtos\\Users\\LogUserDto.cs",
+              "RelativeToolTip": "Dtos\\Users\\LogUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:44:11.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdateActivityDto.cs",
+              "DocumentMoniker": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Dtos\\Activities\\UpdateActivityDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Activities\\UpdateActivityDto.cs",
+              "ToolTip": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Dtos\\Activities\\UpdateActivityDto.cs",
+              "RelativeToolTip": "Dtos\\Activities\\UpdateActivityDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:43:56.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\FIAP\\ConcenssionariaDotnettCP2 (1)\\ConcenssionariaDotnett\\Estudos\\Sprint2Csharp\\RegistroPessoaAcessibilidade\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwBMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T00:30:33.414Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
